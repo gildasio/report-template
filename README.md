@@ -13,6 +13,8 @@ A arte de background e do cabeçalho das páginas foi uma modificação minha da
 arte feita pelo meu amigo [Rafael Serejo](https://github.com/rafaelbsfarias)
 para o [EnSI 2018](https://ensi.pop-ba.rnp.br/2018/).
 
+Veja o resultado: [relatorio.pdf](./relatorio.pdf).
+
 ### Seções do Relatório
 
 Não deixei separação de tópicos no exemplo de relatório mas o que costumo usar
@@ -66,6 +68,8 @@ that I want to share it with some people, it's done.
 The background and header art is a modification by me from an real art made by
 my friend [Rafael Serejo](https://github.com/rafaelbsfarias) to [EnSI
 2018](https://ensi.pop-ba.rnp.br/2018/).
+
+See the result: [relatorio.pdf](./relatorio.pdf).
 
 ### Report Sections
 
